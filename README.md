@@ -1,7 +1,8 @@
 # DenZuider
 
 Onderwereld - Regels
-Artikel 101.OW - Wapenlijst
+Artikel 101.OW - Wapenlijst 
+
 Zoals vele weten werken we binnen Amersfoort Roleplay met een wapenlijst. Ieder wapen dat in jouw bezit is, dient op jouw persoonlijke wapenlijst te staan. Heb jij dus een wapen geript/gekocht dien jij een ticket aan te maken. Voor dat deze ticket is goedgekeurd mag je dit wapen dus niet gebruiken. Doe je dit wel zal het wapen ingenomen worden en zal je daarvoor een straf krijgen. Deze krijg je dus ook niet terug.
 Wapenlijst naam dient gelijk te zijn aan je steamnaam. Dit is verplicht!
 
