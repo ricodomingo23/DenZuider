@@ -7,6 +7,7 @@ Zoals vele weten werken we binnen Amersfoort Roleplay met een wapenlijst. Ieder 
 Wapenlijst naam dient gelijk te zijn aan je steamnaam. Dit is verplicht!
 
 Artikel 102.OW - Rippen
+
 Personen met de volgende dingen mogen geript worden:
 Met een masker om
 Zwarte motorhelm (niet als je op een motor rijdt enkel als je er vanaf zit)
@@ -16,7 +17,9 @@ Als 1 iemand in jou groep een wapen heeft getrokken of aan illegale activiteiten
 Het rippen van een overheidsmedewerker indienst is niet toegestaan! Zie Artikel 123.OW
 Het rippen van mensen die bezig zijn met een officiële gangjob is niet toegestaan.
 Om een persoon te rippen dien je altijd een clip te hebben van het moment dat je een persoon gezien die voldoet aan bovenstaande regels, bijvoorbeeld een clip waar je ziet dat deze persoon een wapen of holster heeft (deze informatie/clip mag maximaal 24u na het gebeuren gebruikt worden.)
+
 Artikel 102.1.OW - Overige Regels Rippen/Hostage
+
 Personen rippen zonder enkele roleplay is niet toegestaan. (Voorbeeld: Iemand een lift aanbieden en daarna /me vastbinden + coms afpakken is NIET toegestaan.)
 Iemand uitkleden zodat het wapen tevoorschijn komt is niet toegestaan. (Powergaming)
 Als iemand zegt 'ja ik heb wapens op zak' of iets in zulke richting dan vervalt de regel dat je holster, masker, bulletproof vest aan moet hebben om gefouilleerd te worden, Ook dan mag je geript worden zonder dat het wapen fysiek is gezien. (Ook al zeg je daarna grapje grapje)
@@ -30,7 +33,9 @@ Vanaf 5 agenten online(in de stad) mag er 1 hostage genomen worden
 Vanaf 7 agenten online(in de stad) mag er een 2e hostage genomen worden
 Vanaf 10 agenten online(in de stad) mag er een 3e hostage genomen worden
 Vanaf Meer dan 10 agenten online(in de stad) mag je er zoveel je wilt gijzelen, zolang het maar realistisch is.
+
 Artikel 103.1.OW - Greenzone
+
 De ANWB (Tenzij de persoon een motorhelm, masker, bulletproofvest of holster draagt. Je wacht de persoon BUITEN af)
 Het Gemeentehuis
 Het Ziekenhuis
